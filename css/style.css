@@ -12,6 +12,10 @@
   margin-left: 200px;
 }
 
+.immagini {
+  margin-top: 20px;
+}
+
 .logo {
   width: 250px;
   margin-top: 30px;
@@ -34,4 +38,17 @@ h1 {
 
 .booleaner {
   color: lightblue;
+}
+
+.didascalia {
+  font-size: 13px;
+}
+
+.evidenziato {
+  background-color: yellow;
+}
+
+.lorem {
+  margin-top: 25px;
+  font-size: 15px;
 }
