@@ -52,3 +52,24 @@ h1 {
   margin-top: 25px;
   font-size: 15px;
 }
+thead {
+  background-color: blue;
+  border-spacing: 0px;
+  color: white;
+}
+
+.terza-colonna {
+  width: 50%;
+}
+
+th {
+  text-align: left;
+}
+
+table {
+  margin-top: 25px;
+}
+
+.riga-blu {
+  background-color: lightblue;
+}
