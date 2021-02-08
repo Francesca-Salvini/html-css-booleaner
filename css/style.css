@@ -17,6 +17,7 @@
 .header {
   background-color: lightblue;
   background-image: url(../img/pattern.png);
+  background-size: 350px;
 }
 
 .logo {
